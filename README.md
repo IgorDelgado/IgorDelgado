@@ -21,7 +21,7 @@
   
   <img align="center" alt="Igor-DotNetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 
-    <img align="center" alt="Igor-DotNetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  <img align="center" alt="Igor-DotNetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
 
   
   <img align="center" alt="Igor-DotNetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
