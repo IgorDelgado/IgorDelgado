@@ -1,6 +1,6 @@
-
+<div align="center">
 <h3> Welcome to my GitHub, thanks for access! </h3>
-
+</div>
 
 
 <div align="center">
